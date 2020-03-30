@@ -1,1 +1,10 @@
 Hello world  :D
+
+
+
+
+
+
+
+
+we use git pull because we want to fetch and merge for all :)
